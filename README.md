@@ -1,8 +1,9 @@
-![1603fb7077abb9093f4af305b4e5ce79](https://github.com/SeanK-23/SeanK-23/assets/141160506/082f5297-8d9d-4a69-93bc-45512b2a3c5d)
+![MS4n](https://github.com/SeanK-23/SeanK-23/assets/141160506/71cb0ea7-717c-4b80-affe-e6a17ca1e6fb)
+
 
 <h1 align="center">Hi 👋, I'm Sean Kennene</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seank-23&label=Profile%20views&color=0e75b6&style=flat" alt="seank-23" /> </p>

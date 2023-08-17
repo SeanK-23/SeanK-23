@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/gif/flying-birds-above-the-sea-anime-aesthetic-57jj9md4i2o4d3ey.html?embed=true)](https://gifdb.com/images/high/flying-birds-above-the-sea-anime-aesthetic-57jj9md4i2o4d3ey.gif)
+[![MasterHead](https://gifdb.com/gif/flying-birds-above-the-sea-anime-aesthetic-57jj9md4i2o4d3ey.html?embed=true)]
 <h1 align="center">Hi 👋, I'm Sean Kennene</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 

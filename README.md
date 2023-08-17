@@ -1,4 +1,5 @@
-[![MasterHead](https://gifdb.com/gif/flying-birds-above-the-sea-anime-aesthetic-57jj9md4i2o4d3ey.html?embed=true)]
+![1603fb7077abb9093f4af305b4e5ce79](https://github.com/SeanK-23/SeanK-23/assets/141160506/082f5297-8d9d-4a69-93bc-45512b2a3c5d)
+
 <h1 align="center">Hi 👋, I'm Sean Kennene</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

@@ -1,6 +1,6 @@
 [![MasterHead](https://gifdb.com/gif/flying-birds-above-the-sea-anime-aesthetic-57jj9md4i2o4d3ey.html?embed=true)](https://gifdb.com/images/high/flying-birds-above-the-sea-anime-aesthetic-57jj9md4i2o4d3ey.gif)
 <h1 align="center">Hi 👋, I'm Sean Kennene</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seank-23&label=Profile%20views&color=0e75b6&style=flat" alt="seank-23" /> </p>
 
